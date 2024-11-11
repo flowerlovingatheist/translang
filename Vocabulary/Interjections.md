@@ -2,3 +2,9 @@
 | -------- | ---------- |
 | sim | yes | 
 | nen | no |
+| na | hello |
+| konba | goodbye |
+| 3 | cute! |
+| ke | ok |
+| biwe | thanks |
+| }i}i | laughter |
