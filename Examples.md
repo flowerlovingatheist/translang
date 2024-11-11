@@ -1,3 +1,3 @@
 | Phrase | Translation |
 | -------- | ----------- |
-| :te kaseluse mi  bintane | The catgirl is eating. |
+| :te kaseluse mi  bintane | The cute catgirl is eating. |
