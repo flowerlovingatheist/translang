@@ -6,3 +6,4 @@
 * * [Nouns](Vocabulary/Nouns.md)
 * * [Adjectives](Vocabulary/Adjectives.md)
 * * [Demonstratives](Vocabulary/Demonstrative.md)
+* * [Verbs](Vocabulary/Verbs.md)
