@@ -2,6 +2,6 @@
 |----------|------------|
 | kase | cat |
 | hun | dog |
-| luma | human |
+| luma | person |
 | mawa | kiss |
 | lanmi | food |
