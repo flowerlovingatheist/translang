@@ -1,6 +1,9 @@
 | Spelling | Definition |
 |----------|------------|
 | -lu | -er, -ist |
-| -ta | makes word feminine |
-| -to | makes word masculine |
+| -se | makes word feminine |
+| -ke | makes word androfem |
+| -ka | makes word androgynous |
+| -ki | makes word andromasc |
+| -ci | makes word masculine |
 | -pa | makes pronoun possessive |
