@@ -4,3 +4,4 @@
 * [Phonetics](Phonetics.md)
 * Vocabulary
 * * [Nouns](Vocabulary/Nouns.md)
+* * [Adjectives](Vocabulary/Adjectives.md)
