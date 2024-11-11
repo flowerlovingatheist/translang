@@ -7,5 +7,5 @@
 | daka | animate, androgynous, 3rd person |
 | daki | animate, andromasc, 3rd person |
 | daci | animate, masculine, 3rd person |
-| mida | animate, androgynous, 2nd person |
-| li | animate, androgynous, 1st person |
+| mida | animate, unspecified, 2nd person |
+| li | animate, unspecified, 1st person |
