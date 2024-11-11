@@ -1,4 +1,7 @@
 | Spelling | Definition |
 |----------|------------|
-| кʌsε | cat |
-| hυᲘ | dog |
+| kase | cat |
+| hun | dog |
+| luma | human |
+| mawa | kiss |
+| lanmi | food |
