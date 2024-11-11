@@ -21,6 +21,7 @@ Ending is either empty, -da for past tense, -ne for present tense, or -lo for fu
 # Punctuation
 
 | Symbol | 	Usage/Purpose |
+| ------ | ------------- |
 | : |		Denotes beginning of a sentence. |
 | ; |		Used to iterate through items/ideas. |
 | >: |		Denotes beginning of an emotional sentence, either angry or encouraging. |
