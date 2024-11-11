@@ -1,7 +1,7 @@
 # Consonants
 | Symbol | IPA Pronunciation | Anglicized |
 ---------|-------------------|------------|
-| 3 | /mi/ | "m" |
+| 3 | /mi/ | "me" |
 | w | /w/ | "w" |
 | m | /m/ | "m" |
 | r | /r/ | "r" |
