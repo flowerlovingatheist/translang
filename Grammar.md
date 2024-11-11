@@ -17,3 +17,11 @@ For example kaselutase is catgirls, which is formed from root kase, suffixes -lu
 Verb is formed as root followed by ending. 
 
 Ending is either empty, -da for past tense, -ne for present tense, or -lo for future tense.
+
+# Punctuation
+
+| Symbol | 	Usage/Purpose |
+| : |		Denotes beginning of a sentence. |
+| ; |		Used to iterate through items/ideas. |
+| >: |		Denotes beginning of an emotional sentence, either angry or encouraging. |
+| ?: |		Denotes beginning of an inquisitive sentence, or a sentence implying uncertainty. |
