@@ -5,3 +5,4 @@
 | luma | person |
 | mawa | kiss |
 | lanmi | food |
+| topi | god, deity |
