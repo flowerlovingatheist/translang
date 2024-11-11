@@ -1,3 +1,3 @@
 # Translang
 
-* (Grammar)[Grammar.md]
+* [Grammar](Grammar.md)
