@@ -1,2 +1,3 @@
 | Spelling | Definition |
 |----------|------------|
+| mi | cute |
