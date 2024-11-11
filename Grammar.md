@@ -10,7 +10,7 @@ Noun is formed as root followed by zero or more suffixes and ending.
 
 Ending is either empty or -sa for plural. 
 
-For example kaselutase is catgirls, which is formed from root kase, suffixes -lu and -se, and ending -sa.
+For example kaselusesa is catgirls, which is formed from root kase, suffixes -lu and -se, and ending -sa.
 
 # Verbs
 
