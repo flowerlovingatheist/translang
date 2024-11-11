@@ -8,7 +8,7 @@ Adjectives are placed after what they describe.
 
 Noun is formed as root followed by zero or more suffixes and ending.
 
-Ending is either empty or -se for plural. 
+Ending is either empty or -sa for plural. 
 
 For example kaselutase is catgirls, which is formed from root kase, suffixes -lu and -ta, and ending -se.
 
