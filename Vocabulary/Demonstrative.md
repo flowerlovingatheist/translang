@@ -6,7 +6,7 @@
 | this/that way | -tu | tatu (this way) | katu (that way) | sotu (which way) |
 | here/there | -wa | tawa (here) | kawa (there) | sowa (where) |
 | such/what kind | -lo | talo (such, this kind of) | kalo (such, that kind of) | solo (what kind) |
-| now/then | -fi | tafi (now) | kafi (then) | sofi (when) |
+| now/then | -hi | tahi (now) | kahi (then) | sohi (when) |
 
 | Spelling | Definition |
 | -------- | ---------- |
