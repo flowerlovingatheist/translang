@@ -18,6 +18,12 @@ Verb is formed as root followed by ending.
 
 Ending is either empty, -da for past tense, -ne for present tense, or -lo for future tense.
 
+# Article
+
+The — te, used similar to english.
+
+There is no a/an since it's implied by default.
+
 # Punctuation
 
 | Symbol | 	Usage/Purpose |
