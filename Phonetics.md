@@ -27,7 +27,7 @@
 | υ | u | /u/ |	"oo" |
 | ʌ | a | /ɑ/ |	"ah" |
 
-## Transliteration examples
-Maria="ʍɾıʌ" or "ʍʌɾıʌ"
-Sahara="shɾʌ" or "sʌhʌɾʌ"
-London="lᲘ'dᲘ'" or "lωᲘdωᲘ"
+Transliteration examples:
+- Maria = "ʍɾıʌ" or "ʍʌɾıʌ"
+- Sahara = "shɾʌ" or "sʌhʌɾʌ"
+- London = "lᲘ'dᲘ'" or "lωᲘdωᲘ"
