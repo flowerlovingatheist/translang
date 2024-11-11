@@ -1,4 +1,4 @@
 | Spelling | Definition |
 | -------- | ---------- |
-| sim | yes |
+| sim | yes | 
 | nen | no |
