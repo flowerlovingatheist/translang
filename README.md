@@ -9,3 +9,4 @@
 * * [Verbs](Vocabulary/Verbs.md)
 * * [Pronouns](Vocabulary/Pronouns.md)
 * * [Suffixes](Vocabulary/Suffixes.md)
+* * [Adverbs](Vocabulary/Adverbs.md)
