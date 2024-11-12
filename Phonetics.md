@@ -18,6 +18,7 @@
 | h | /h/ |	 "h" |
 | t | /t/ |	 "t" |
 | f | /f/ | "f" |
+| j | /j/ | "y" as in "yes" |
 
 |             | Labial | Dental | Alveolar | Postalveolar | Velar | Glottal |
 |-------------|--------|--------|----------|--------------|-------|---------|
@@ -27,6 +28,7 @@
 | Approximant | w      |        | l, ɹ     |              | w     |         |
 | Tap         |        |        | ɾ        |              |       |         |
 
+ToDo: add j to take above.
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
