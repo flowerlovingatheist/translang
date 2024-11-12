@@ -5,3 +5,4 @@
 | sanu | be |
 | tenco | have |
 | somo | sleep |
+| cosi | choose, vote |
