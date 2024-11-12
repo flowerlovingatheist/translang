@@ -9,7 +9,7 @@
 | p | /p/ | "p" |
 | b | /b/ | "b" |
 | }	| /x/ | "h", actually german "ch" or russian "х" |
-| {	| /θ/ | "th" |
+| x	| /θ/ | "th" |
 | c | /ʃ/ |	"sh" |
 | n | /n/ | "n" |
 | t | /t/ |	 "t" |
