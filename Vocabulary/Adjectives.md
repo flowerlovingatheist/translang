@@ -11,3 +11,5 @@
 | gara | all |
 | coko | some |
 | boro | any |
+| gurati | negative freedom, without cost |
+| lifeta | positive freedom |
