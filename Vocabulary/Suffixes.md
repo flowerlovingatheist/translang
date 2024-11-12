@@ -1,6 +1,7 @@
 | Spelling | Definition |
 |----------|------------|
 | -lu | agent noun, like -er and -ist |
+| -ri | place/event, like -ery |
 | -se | makes word feminine |
 | -ke | makes word androfem |
 | -ka | makes word androgynous |
