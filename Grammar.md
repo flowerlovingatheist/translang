@@ -30,5 +30,5 @@ There is no a/an since it's implied by default.
 | ------ | ------------- |
 | ' |		Denotes beginning of a sentence. |
 | ; |		Used to iterate through items/ideas. |
-| >: |		Denotes beginning of an emotional sentence, either angry or encouraging. |
-| ?: |		Denotes beginning of an inquisitive sentence, or a sentence implying uncertainty. |
+| >' |		Denotes beginning of an emotional sentence, either angry or encouraging. |
+| ?' |		Denotes beginning of an inquisitive sentence, or a sentence implying uncertainty. |
