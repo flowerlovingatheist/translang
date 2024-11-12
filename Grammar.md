@@ -2,7 +2,7 @@
 
 Sentence structure is Subject-Verb-Object.
 
-Adjectives are placed after what they describe.
+Adjectives are placed after what they describe, and same is for adverbs.
 
 # Nouns
 
