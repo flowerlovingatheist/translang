@@ -7,3 +7,4 @@
 | somo | sleep |
 | cosi | choose, vote |
 | falo | speak, say, tell |
+| toransu | differ |
