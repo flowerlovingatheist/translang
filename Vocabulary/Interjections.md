@@ -2,7 +2,8 @@
 | -------- | ---------- |
 | sim | yes | 
 | nen | no |
-| na | hello |
+| henlo | hello |
+| na | hi |
 | konba | goodbye |
 | 3 | cute! |
 | ke | ok |
