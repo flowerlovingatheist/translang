@@ -7,3 +7,4 @@
 | lanmi | food |
 | topi | god, deity |
 | number | wantu |
+| cosi | choice, vote |
