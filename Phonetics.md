@@ -4,7 +4,7 @@
 | 3 | /mi/ | "me" |
 | w | /w/ | "w" |
 | m | /m/ | "m" |
-| r | /r/ | "r" |
+| r | /ɾ/ or /ɹ/ | "r" |
 | p | /p/ | "p" |
 | }	| /x/ | "h", actually german "ch" or russian "х" |
 | {	| /θ/ | "th" |
