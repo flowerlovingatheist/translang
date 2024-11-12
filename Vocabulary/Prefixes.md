@@ -1,3 +1,3 @@
 | Spelling | Definition |
 | -------- | ---------- |
-| mire | half |
+| mire- | half |
