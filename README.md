@@ -14,7 +14,7 @@ Help us out at r/transconlang
 * * [Pronouns](Vocabulary/Pronouns.md)
 * * [Numbers](Vocabulary/Numbers.md)
 * * [Suffixes](Vocabulary/Suffixes.md)
-* * [Conjunctions](Conjunctions.md)
+* * [Conjunctions](Vocabulary/Conjunctions.md)
 * * [Interjections](Vocabulary/Interjections.md)
 * * [Adverbs](Vocabulary/Adverbs.md)
 * * [Propositions](Vocabulary/Propositions.md)
