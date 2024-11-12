@@ -9,7 +9,7 @@ Help us out at r/transconlang
 * Vocabulary
 * * [Nouns](Vocabulary/Nouns.md)
 * * [Adjectives](Vocabulary/Adjectives.md)
-* * [Demonstratives](Vocabulary/Demonstrative.md)
+* * [Demonstratives](Vocabulary/Demonstratives.md)
 * * [Verbs](Vocabulary/Verbs.md)
 * * [Pronouns](Vocabulary/Pronouns.md)
 * * [Numbers](Vocabulary/Numbers.md)
@@ -17,4 +17,4 @@ Help us out at r/transconlang
 * * [Conjunctions](Vocabulary/Conjunctions.md)
 * * [Interjections](Vocabulary/Interjections.md)
 * * [Adverbs](Vocabulary/Adverbs.md)
-* * [Prepositions](Vocabulary/Propositions.md)
+* * [Prepositions](Vocabulary/Prepositions.md)
