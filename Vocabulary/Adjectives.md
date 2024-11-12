@@ -5,3 +5,4 @@
 | disita | bad |
 | toransu | different, other |
 | somo | sleepy |
+| sekiso | sexy, fuckable |
