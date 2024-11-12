@@ -14,3 +14,4 @@
 | sekiso | sex, act of fucking |
 | lumaba | friend |
 | deja | action |
+| gade | guess |
