@@ -3,4 +3,4 @@
 | mi | cute |
 | wusita | good |
 | disita | bad |
-| toransu | different |
+| toransu | different, other |
