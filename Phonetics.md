@@ -19,6 +19,15 @@
 | t | /t/ |	 "t" |
 | f | /f/ | "f" |
 
+|             | Labial | Dental | Alveolar | Postalveolar | Velar | Glottal |
+|-------------|--------|--------|----------|--------------|-------|---------|
+| Nasal       | m      |        | n        |              |       |         |
+| Plosive     | p, b   |        | t, d     |              | k, g  |         |
+| Fricative   | f      | θ      | s        | ʃ            | x     | h       |
+| Approximant | w      |        | l, ɹ     |              | w     |         |
+| Tap         |        |        | ɾ        |              |       |         |
+
+
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
 |---------|-------------------|------------|
