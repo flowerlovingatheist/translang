@@ -33,11 +33,11 @@
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
 |---------|-------------------|------------|
-| o | /ɒ/ |	"oh" |
+| o | /ɒ/ or /ɔ/ |	"oh" |
 | e | /ε/ |	"eh" |
 | i | /i/ |	"ee" |
 | u | /u/ |	"oo" |
-| a | /ɑ/ |	"ah" |
+| a | /ɑ/ or /ʌ/ |	"ah" |
 
 # Syllable Structure
 
