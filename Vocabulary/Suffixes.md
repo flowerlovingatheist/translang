@@ -11,3 +11,4 @@
 | -da | makes verb past tense |
 | -ne | makes verb present tense |
 | -lo | makes verb future tense |
+| -do | makes verb imperative |
