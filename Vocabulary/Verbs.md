@@ -9,3 +9,4 @@
 | falo | speak, say, tell |
 | toransu | differ |
 | mahen | make, create |
+| sekiso | have sex, fuck |
