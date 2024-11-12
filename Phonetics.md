@@ -15,8 +15,9 @@
 | k | /k/ |	 "k" |
 | s | /s/ |	 "s" |
 | l | /l/ |	 "l" |
-| h | /h/ |	" h" |
+| h | /h/ |	 "h" |
 | t | /t/ |	 "t" |
+| f | /f/ | "f" |
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
