@@ -21,13 +21,10 @@
 | haweru | hour |
 | dawu | day |
 | natu | night |
-| mirenatu | midnight |
-| miredawu | noon |
 | murinu | morning |
 | ebeninku | evening |
 | monadu | month |
 | siconu | season |
-| mirewaru | half-year |
 | waru | year |
 | diwaru | decade |
 | huwaru | century |
