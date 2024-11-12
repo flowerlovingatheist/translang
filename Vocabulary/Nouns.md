@@ -13,3 +13,4 @@
 | keso | cheese |
 | sekiso | sex, act of fucking |
 | lumaba | friend |
+| deja | action |
