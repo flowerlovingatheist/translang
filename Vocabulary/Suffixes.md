@@ -1,6 +1,6 @@
 | Spelling | Definition |
 |----------|------------|
-| -lu | -er, -ist |
+| -lu | agent noun, like -er and -ist |
 | -se | makes word feminine |
 | -ke | makes word androfem |
 | -ka | makes word androgynous |
