@@ -7,3 +7,6 @@
 | -ki | makes word andromasc |
 | -ci | makes word masculine |
 | -pa | makes pronoun possessive |
+| -da | makes verb past tense |
+| -ne | makes verb present tense |
+| -lo | makes verb future tense |
