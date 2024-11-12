@@ -11,3 +11,4 @@
 | mahen | make, create |
 | sekiso | have sex, fuck |
 | deja | do, act |
+| gade | guess |
