@@ -12,3 +12,4 @@
 | linwa | language |
 | keso | cheese |
 | sekiso | sex, act of fucking |
+| lumaba | friend |
