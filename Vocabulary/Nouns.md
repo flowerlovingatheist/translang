@@ -10,3 +10,4 @@
 | cosi | choice, vote |
 | falo | speech, discussion, chat |
 | linwa | language |
+| keso | cheese |
