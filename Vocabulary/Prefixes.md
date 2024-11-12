@@ -1,6 +1,6 @@
 | Spelling | Definition |
 | -------- | ---------- |
 | mire- | half |
-| gara- | all |
+| gara- | all/every |
 | coko- | some |
-| boro- | any/every |
+| boro- | any |
