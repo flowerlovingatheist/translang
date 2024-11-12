@@ -8,4 +8,5 @@
 | topi | god, deity |
 | number | wantu |
 | cosi | choice, vote |
+| falo | speech, discussion, chat |
 | linwa | language |
