@@ -10,9 +10,9 @@
 | li | animate, unspecified, 1st person |
 | reda | reflexive pronoun, referencing to the thing(s) already mentioned in the sentence |
 | toransu | other |
-| gara | all |
+| gara | all/every |
 | coko | some |
-| boro | any/every |
+| boro | any |
 
 |   |   | Close to speaker | Far from speaker | Question |
 | - | - | ---------------- | ---------------- | -------- |
