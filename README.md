@@ -1,5 +1,8 @@
 # Translang
+The trans constructed language :3
+Help us out at r/transconlang
 
+# Table of contents
 * [Grammar](Grammar.md)
 * [Phonetics](Phonetics.md)
 * [Examples](Examples.md)
