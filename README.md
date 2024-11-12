@@ -17,4 +17,4 @@ Help us out at r/transconlang
 * * [Conjunctions](Vocabulary/Conjunctions.md)
 * * [Interjections](Vocabulary/Interjections.md)
 * * [Adverbs](Vocabulary/Adverbs.md)
-* * [Propositions](Vocabulary/Propositions.md)
+* * [Prepositions](Vocabulary/Propositions.md)
