@@ -4,3 +4,4 @@
 | wusita | good |
 | disita | bad |
 | toransu | different, other |
+| somo | sleepy |
