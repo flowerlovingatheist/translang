@@ -4,3 +4,5 @@
 | gara- | all/every |
 | coko- | some |
 | boro- | any |
+| ni- | negation |
+| mo- | inversion |
