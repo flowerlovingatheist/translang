@@ -6,3 +6,4 @@
 | toransu | different, other |
 | somo | sleepy |
 | sekiso | sexy, fuckable |
+| deja | active |
