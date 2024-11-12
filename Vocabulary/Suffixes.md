@@ -7,7 +7,8 @@
 | -ka | makes word androgynous |
 | -ki | makes word andromasc |
 | -ci | makes word masculine |
-| -pa | makes pronoun possessive |
+| -sa | makes word plural |
+| -pa | makes word possessive |
 | -da | makes verb past tense |
 | -ne | makes verb present tense |
 | -lo | makes verb future tense |
