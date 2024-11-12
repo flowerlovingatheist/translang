@@ -8,3 +8,6 @@
 | somo | sleepy |
 | sekiso | sexy, fuckable |
 | deja | active |
+| gara | all |
+| coko | some |
+| boro | any |
