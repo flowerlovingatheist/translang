@@ -8,7 +8,6 @@
 | r | /ɾ/ or /ɹ/ | "r" |
 | p | /p/ | "p" |
 | b | /b/ | "b" |
-| }	| /x/ | "h", actually german "ch" or russian "х" |
 | x	| /θ/ | "th" |
 | c | /ʃ/ |	"sh" |
 | n | /n/ | "n" |
@@ -26,7 +25,7 @@
 |-------------|--------|--------|----------|--------------|---------|-------|---------|
 | Nasal       | m      |        | n        |              |         |       |         |
 | Plosive     | p, b   |        | t, d     |              |         | k, g  |         |
-| Fricative   | f      | θ      | s        | ʃ            |         | x     | h       |
+| Fricative   | f      | θ      | s        | ʃ            |         |       | h       |
 | Approximant | w      |        | l, ɹ     |              | j       | w     |         |
 | Tap         |        |        | ɾ        |              |         |       |         |
 
