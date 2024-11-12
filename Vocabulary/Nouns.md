@@ -32,3 +32,5 @@
 | nem | mind |
 | pen | movement |
 | nepen | feeling |
+| gurati | negative freedom |
+| lifeta | positive freedom |
