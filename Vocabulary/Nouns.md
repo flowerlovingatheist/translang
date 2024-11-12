@@ -8,3 +8,4 @@
 | topi | god, deity |
 | number | wantu |
 | cosi | choice, vote |
+| linwa | language |
