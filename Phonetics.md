@@ -20,15 +20,13 @@
 | f | /f/ | "f" |
 | j | /j/ | "y" as in "yes" |
 
-|             | Labial | Dental | Alveolar | Postalveolar | Velar | Glottal |
-|-------------|--------|--------|----------|--------------|-------|---------|
-| Nasal       | m      |        | n        |              |       |         |
-| Plosive     | p, b   |        | t, d     |              | k, g  |         |
-| Fricative   | f      | θ      | s        | ʃ            | x     | h       |
-| Approximant | w      |        | l, ɹ     |              | w     |         |
-| Tap         |        |        | ɾ        |              |       |         |
-
-ToDo: add j to table above.
+|             | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+|-------------|--------|--------|----------|--------------|---------|-------|---------|
+| Nasal       | m      |        | n        |              |         |       |         |
+| Plosive     | p, b   |        | t, d     |              |         | k, g  |         |
+| Fricative   | f      | θ      | s        | ʃ            |         | x     | h       |
+| Approximant | w      |        | l, ɹ     |              | j       | w     |         |
+| Tap         |        |        | ɾ        |              |         |       |         |
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
