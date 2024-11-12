@@ -11,3 +11,4 @@
 | falo | speech, discussion, chat |
 | linwa | language |
 | keso | cheese |
+| sekiso | sex, act of fucking |
