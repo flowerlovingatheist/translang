@@ -15,3 +15,5 @@
 | nem | think |
 | pen | move |
 | nepen | feel |
+| gurati | induce negative freedom, to reduce cost to none |
+| lifeta | induce positive freedom |
