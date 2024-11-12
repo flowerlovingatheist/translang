@@ -29,3 +29,6 @@
 | diwaru | decade |
 | huwaru | century |
 | newaru | millenium |
+| nem | mind |
+| pen | movement |
+| nepen | feeling |

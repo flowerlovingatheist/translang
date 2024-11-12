@@ -12,3 +12,6 @@
 | sekiso | have sex, fuck |
 | deja | do, act |
 | gade | guess |
+| nem | think |
+| pen | move |
+| nepen | feel |
