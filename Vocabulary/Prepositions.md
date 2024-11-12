@@ -1,0 +1,3 @@
+| Spelling | Definition |
+| -------- | ---------- |
+| ra | in |
