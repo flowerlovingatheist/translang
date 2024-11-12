@@ -12,4 +12,5 @@
 * * [Numbers](Vocabulary/Numbers.md)
 * * [Suffixes](Vocabulary/Suffixes.md)
 * * [Interjections](Vocabulary/Interjections.md)
+* * [Adverbs](Vocabulary/Adverbs.md)
 * * [Propositions](Vocabulary/Propositions.md)
