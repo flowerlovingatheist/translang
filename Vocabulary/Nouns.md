@@ -6,7 +6,7 @@
 | mawa | kiss |
 | lanmi | food |
 | topi | god, deity |
-| number | wantu |
+| wantu | number |
 | cosi | choice, vote |
 | falo | speech, discussion, chat |
 | linwa | language |
