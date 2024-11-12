@@ -28,7 +28,7 @@
 | Approximant | w      |        | l, ɹ     |              | w     |         |
 | Tap         |        |        | ɾ        |              |       |         |
 
-ToDo: add j to take above.
+ToDo: add j to table above.
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
