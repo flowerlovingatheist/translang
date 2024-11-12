@@ -1,4 +1,3 @@
-number = wantu
 0 = sero
 1 = wano
 2 = duwo
