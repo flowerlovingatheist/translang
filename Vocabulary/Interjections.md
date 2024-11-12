@@ -8,4 +8,4 @@
 | 3 | cute! |
 | ke | ok |
 | biwe | thanks |
-| }i}i | laughter |
+| hihi | laughter |
