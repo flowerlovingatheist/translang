@@ -8,4 +8,5 @@
 | daci | animate, masculine, 3rd person |
 | mida | animate, unspecified, 2nd person |
 | li | animate, unspecified, 1st person |
+| reda | reflexive pronoun, referencing to the thing already mentioned in the sentence |
 | toransu | other |
