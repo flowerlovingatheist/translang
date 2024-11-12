@@ -9,7 +9,6 @@ Help us out at r/transconlang
 * Vocabulary
 * * [Nouns](Vocabulary/Nouns.md)
 * * [Adjectives](Vocabulary/Adjectives.md)
-* * [Demonstratives](Vocabulary/Demonstratives.md)
 * * [Verbs](Vocabulary/Verbs.md)
 * * [Pronouns](Vocabulary/Pronouns.md)
 * * [Numbers](Vocabulary/Numbers.md)
