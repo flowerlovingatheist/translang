@@ -24,7 +24,7 @@
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -lu | defines an agent noun | -er , -ist |
-| -sa | indicates plurality | — |
+| -sa | indicates plurality | -s, -es |
 | -ri | establishes a place/event | -ery |
 | -dufen | refers to an entity or construct that performs a specific action or function | -ifier, -inator |
 | -fe | connotes opposition | "against" , "in opposition to" | — |
@@ -33,7 +33,7 @@
 | -ci | establishes masculine characteristics/gender | — |
 | -ke | establishes androfeminine characteristics/gender | — |
 | -ki | establishes andromasc characteristics/gender | — |
-| -pa | marks word as possessive | — |
+| -pa | marks word as possessive | -'s |
 
 # Verb suffixes
 
@@ -48,7 +48,7 @@
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -ku | establishes verb as uncertain/questioning | — |
-| -do | establishes verb as imperative | — |
+| -do | establishes verb as imperative | "should", "ought to" |
 
 # Adjective suffixes
 | Spelling | Definition | English equivalents |
