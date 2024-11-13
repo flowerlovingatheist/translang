@@ -42,7 +42,7 @@
 |----------|------------|---------------------|
 | -da | refers to the past tense form of a verb | -ed |
 | -ne | refers to the present tense form of a verb | -ing |
-| -lo | refers to the future tense form of a verb | "will" "shall" |
+| -lo | refers to the future tense form of a verb | "will", "shall" |
 
 ## Other verb suffixes
 | Spelling | Definition | English equivalents |
