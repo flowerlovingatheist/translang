@@ -12,6 +12,8 @@ Ending is either empty or -sa for plural.
 
 For example kaselusesa is catgirls, which is formed from root kase, suffixes -lu and -se, and ending -sa.
 
+Roots are gender neutral by themselves and only (pro)nouns can have number and gender.
+
 # Verbs
 
 Verb is formed as root followed by ending. 
