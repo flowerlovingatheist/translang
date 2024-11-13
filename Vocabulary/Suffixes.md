@@ -1,6 +1,6 @@
 # Suffixes
 
-# (Pro)noun suffixes
+### (Pro)noun suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -lu | defines an agent noun | -er , -ist |
@@ -15,22 +15,22 @@
 | -ki | establishes andromasc characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
 
-# Verb suffixes
+## Verb suffixes
 
-## Temporal suffixes
+### Temporal suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -da | refers to the past tense form of a verb | -ed |
 | -ne | refers to the present tense form of a verb | -ing |
 | -lo | refers to the future tense form of a verb | "will", "shall" |
 
-## Other verb suffixes
+### Other verb suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -ku | establishes verb as uncertain/questioning | — |
 | -do | establishes verb as imperative | "should", "ought to" |
 
-# Adjective suffixes
+## Adjective suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -jala | denotes ability or capacity | -able , -ible , "capable of" |
