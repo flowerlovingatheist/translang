@@ -31,12 +31,12 @@
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
-|---------|---------------------------------------|------------|
-| o | mainly /ɒ/ , /ɔ/ , /ʊ/⠀⠀\|⠀⠀also /ə/ |	"oh" |
-| e | mainly /ε/ , /ɪ/⠀⠀\|⠀⠀sometimes /æ/ |	"eh" |
-| i | /i/⠀⠀\|⠀⠀exceptionally /ɪ/ |	"ee" |
-| u | /u/⠀⠀\|⠀⠀exceptionally /ʊ/ |	"oo" |
-| a | mainly /ɑ/ , /ʌ/⠀⠀\|⠀⠀sometimes /æ/ , /ə/ |	"ah" |
+|--------|-------------------|------------|
+| <div style="display: flex; align-items: center; height: 100%;">o</div> | <div align="center">mainly /ɒ/ , /ɔ/ , /ʊ/ <br> also /ə/</div> |	"oh" |
+| <div style="display: flex; align-items: center; height: 100%;">e</div> | <div align="center">mainly /ε/ , /ɪ/ <br> sometimes /æ/</div> |	"eh" |
+| <div style="display: flex; align-items: center; height: 100%;">i</div> | <div align="center">/i/ <br> exceptionally /ɪ/</div> |	"ee" |
+| <div style="display: flex; align-items: center; height: 100%;">u</div> | <div align="center">/u/ <br> exceptionally /ʊ/</div> |	"oo" |
+| <div style="display: flex; align-items: center; height: 100%;">a</div> | <div align="center">mainly /ɑ/ , /ʌ/ <br> sometimes /æ/ , /ə/</div> |	"ah" |
 
 # Syllable Structure
 
