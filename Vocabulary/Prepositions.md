@@ -2,6 +2,7 @@
 | -------- | ---------- |
 | ra | in |
 | para | for |
+| de | of |
 | gon | on |
 | huba | over |
 | wuba | under |
