@@ -33,4 +33,4 @@ Like if wusita is good, then
 And opposite is true too, if disita is bad, then:
 * *ni*disita, not good bad, other than bad, is not really bad but not necessarily good;
 * *mo*disita, contrary to bad, is good; and
-* disita*fe*, in opposition to good, is evil.
+* disita*fe*, in opposition to bad, is against bad.
