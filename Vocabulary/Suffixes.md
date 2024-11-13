@@ -2,6 +2,7 @@
 |----------|------------|
 | -lu | agent noun, like -er and -ist |
 | -ri | place/event, like -ery |
+| -dufen | thing that performs a specific action or function, -ifier, -inator |
 | -fe | against, in opposition to |
 | -se | makes word feminine |
 | -ke | makes word androfem |
