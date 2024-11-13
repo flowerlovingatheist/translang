@@ -3,6 +3,7 @@
 | ra | in |
 | para | for |
 | de | of |
+| no | but |
 | gon | on |
 | huba | over |
 | wuba | under |
