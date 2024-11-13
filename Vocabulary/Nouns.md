@@ -37,3 +37,4 @@
 | kumi | trans(gender)ness |
 | mobama | hormone |
 | jala | ability |
+| mire | half, middle |
