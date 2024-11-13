@@ -1,3 +1,5 @@
+# Suffixes
+
 # (Pro)noun suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
