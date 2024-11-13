@@ -13,6 +13,8 @@
 | li | animate, unspecified, 1st person |
 
 ## Indefinite Pronouns
+| Spelling | Definition |
+|----------|------------|
 | reda | reflexive pronoun, referencing to the thing(s) already mentioned in the sentence |
 | toransu | other |
 | gara | all/every |
