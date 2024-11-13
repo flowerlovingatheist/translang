@@ -4,3 +4,4 @@
 | con | soon |
 | sun | why |
 | saci | how |
+| jala | ably, competently |
