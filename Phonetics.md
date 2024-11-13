@@ -31,12 +31,12 @@
 
 # Vowels
 | Symbol | IPA Pronunciation | Anglicized |
-|---------|-------------------|------------|
-| o | /ɒ/ or /ɔ/ |	"oh" |
-| e | /ε/ |	"eh" |
-| i | /i/ |	"ee" |
-| u | /u/ |	"oo" |
-| a | /ɑ/ or /ʌ/ |	"ah" |
+|---------|---------------------------------------|------------|
+| o | mainly /ɒ/ , /ɔ/ , /ʊ/⠀⠀\|⠀⠀also /ə/ |	"oh" |
+| e | mainly /ε/ , /ɪ/⠀⠀\|⠀⠀sometimes /æ/ |	"eh" |
+| i | /i/⠀⠀\|⠀⠀exceptionally /ɪ/ |	"ee" |
+| u | /u/⠀⠀\|⠀⠀exceptionally /ʊ/ |	"oo" |
+| a | mainly /ɑ/ , /ʌ/⠀⠀\|⠀⠀sometimes /æ/ , /ə/ |	"ah" |
 
 # Syllable Structure
 
