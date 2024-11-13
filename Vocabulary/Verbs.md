@@ -17,3 +17,4 @@
 | nepen | feel |
 | gurati | induce negative freedom, reduce cost to none |
 | lifeta | induce positive freedom |
+| jala | can, be able to |
