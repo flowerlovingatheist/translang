@@ -2,7 +2,7 @@
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -lu | defines an agent noun | -er , -ist |
-| -sa | indicates plurality | — |
+| -sa | indicates plurality | -s |
 | -ri | establishes a place/event | -ery |
 | -dufen | refers to an entity or construct that performs a specific action or function | -ifier, -inator |
 | -fe | connotes opposition | "against" , "in opposition to" | — |
