@@ -11,6 +11,6 @@
 | gara | all |
 | coko | some |
 | boro | any |
-| gurati | negative freedom, without cost |
-| lifeta | positive freedom |
+| gurati | negative freedom, free (price) |
+| lifeta | positive freedom, liberated |
 | jala | able, capable |
