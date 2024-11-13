@@ -2,7 +2,7 @@
 The trans constructed language :3
 Help us out at r/transconlang
 
-# Table of contents
+## Table of contents
 * [Grammar](Grammar.md)
 * [Phonetics](Phonetics.md)
 * [Examples](Examples.md)
@@ -19,9 +19,9 @@ Help us out at r/transconlang
 * * [Adverbs](Vocabulary/Adverbs.md)
 * * [Prepositions](Vocabulary/Prepositions.md)
 
-# Common Misunderstandings
+## Common Misunderstandings
 
-## ni- vs mo- vs -fe
+### ni- vs mo- vs -fe
 
 It seems that many don't understand the difference between these three, so let's show it on few examples:
 
@@ -33,4 +33,4 @@ Like if wusita is good, then
 And for the opposite case it's true too, if disita is bad, then:
 * *ni*disita, not good bad, other than bad, is not really bad but not necessarily good;
 * *mo*disita, contrary to bad, is good; and
-* disita*fe*, in opposition to bad, is against bad (i guess there is no good word for it?).
+* disita*fe*, in opposition to bad, is against bad (i guess there is no good word for that?).
