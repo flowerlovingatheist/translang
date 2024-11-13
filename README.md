@@ -26,11 +26,11 @@ Help us out at r/transconlang
 It seems that many don't understand the difference between these three, so let's show it on few examples:
 
 Like if wusita is good, then 
-* _ni_wusita, not good, other than good, is not really good but not necessarily bad;
-* _mo_wusita, contrary to good, is bad; and
-* wusita_fe_, in opposition to good, is evil.
+* *ni*wusita, not good, other than good, is not really good but not necessarily bad;
+* *mo*wusita, contrary to good, is bad; and
+* wusita*fe*, in opposition to good, is evil.
 
 And opposite is true too, if disita is bad, then:
-* _ni_disita, not good bad, other than bad, is not really bad but not necessarily good;
-* _mo_disita, contrary to bad, is good; and
-* disita_fe_, in opposition to good, is evil.
+* *ni*disita, not good bad, other than bad, is not really bad but not necessarily good;
+* *mo*disita, contrary to bad, is good; and
+* disita*fe*, in opposition to good, is evil.
