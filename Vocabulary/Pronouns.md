@@ -13,6 +13,7 @@
 | gara | all/every |
 | coko | some |
 | boro | any |
+| mire | half |
 
 |   |   | Close to speaker | Far from speaker | Question |
 | - | - | ---------------- | ---------------- | -------- |
