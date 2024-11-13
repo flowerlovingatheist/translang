@@ -16,3 +16,4 @@
 | -lo | makes verb future tense |
 | -ku | makes verb uncertain/questioning |
 | -do | makes verb imperative |
+| -jala | capable of, like -able and -ible |
