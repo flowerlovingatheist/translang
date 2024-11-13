@@ -34,3 +34,4 @@
 | nepen | feeling |
 | gurati | negative freedom |
 | lifeta | positive freedom |
+| kumi | trans(gender)ness |
