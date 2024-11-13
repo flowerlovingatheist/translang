@@ -30,7 +30,7 @@ Like if wusita is good, then
 * *mo*wusita, contrary to good, is bad; and
 * wusita*fe*, in opposition to good, is evil.
 
-And for opposite case it's is true too, if disita is bad, then:
+And for the opposite case it's true too, if disita is bad, then:
 * *ni*disita, not good bad, other than bad, is not really bad but not necessarily good;
 * *mo*disita, contrary to bad, is good; and
-* disita*fe*, in opposition to bad, is against bad.
+* disita*fe*, in opposition to bad, is against bad (i guess there is no good word for it?).
