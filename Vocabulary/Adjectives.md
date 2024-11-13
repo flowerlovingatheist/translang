@@ -13,3 +13,4 @@
 | boro | any |
 | gurati | negative freedom, without cost |
 | lifeta | positive freedom |
+| jala | able, capable |
