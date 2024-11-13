@@ -36,3 +36,4 @@
 | lifeta | positive freedom |
 | kumi | trans(gender)ness |
 | mobama | hormone |
+| jala | ability |
