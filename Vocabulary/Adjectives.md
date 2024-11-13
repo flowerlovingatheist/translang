@@ -14,4 +14,4 @@
 | gurati | negative freedom, free (price) |
 | lifeta | positive freedom, liberated |
 | jala | able, capable of |
-| mire | mid |
+| mire | mid, average |
