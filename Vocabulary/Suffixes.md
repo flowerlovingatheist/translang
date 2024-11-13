@@ -2,7 +2,7 @@
 |----------|------------|
 | -lu | agent noun, like -er and -ist |
 | -ri | place/event, like -ery |
-| -fe | against, ideologically opposed to |
+| -fe | against, in opposition to |
 | -se | makes word feminine |
 | -ke | makes word androfem |
 | -ka | makes word androgynous |
