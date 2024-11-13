@@ -40,9 +40,9 @@
 ## Temporal suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
-| -da | refers to the past tense form of a verb | — |
-| -ne | refers to the present tense form of a verb | — |
-| -lo | refers to the future tense form of a verb | — |
+| -da | refers to the past tense form of a verb | -ed |
+| -ne | refers to the present tense form of a verb | -ing |
+| -lo | refers to the future tense form of a verb |  |
 
 ## Other verb suffixes
 | Spelling | Definition | English equivalents |
