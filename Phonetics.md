@@ -1,4 +1,6 @@
-# Consonants
+# Phonetics
+
+## Consonants
 | Symbol | IPA Pronunciation | Anglicized |
 ---------|-------------------|------------|
 | 3 | /mi/ | "me" |
@@ -31,7 +33,7 @@
 | Approximant | w      |        | l, ɹ     |              | j       | w     |         |
 | Tap         |        |        | ɾ        |              |         |       |         |
 
-# Vowels
+## Vowels
 | Symbol | IPA Pronunciation | Anglicized |
 |--------|-------------------|------------|
 | <div style="display: flex; align-items: center; height: 100%;">o</div> | <div align="center">mainly /ɒ/ , /ɔ/ , /ʊ/ <br> also /ə/</div> |	"oh" |
@@ -40,8 +42,7 @@
 | <div style="display: flex; align-items: center; height: 100%;">u</div> | <div align="center">/u/ <br> exceptionally /ʊ/</div> |	"oo" |
 | <div style="display: flex; align-items: center; height: 100%;">a</div> | <div align="center">mainly /ɑ/ , /ʌ/ <br> sometimes /æ/ , /ə/</div> |	"ah" |
 
-# Syllable Structure
-
+## Syllable Structure
 CV(N) — consonant + vowel + maybe nasal consonant (n or m)
 
 Stress should always be placed on the 2nd-to-last syllable.
