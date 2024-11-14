@@ -11,9 +11,9 @@
 | -fe | connotes opposition | "against" , "in opposition to" | — |
 | -se | establishes feminine characteristics/gender | — |
 | -ke | establishes androfeminine characteristics/gender | — |
-| -ci | establishes masculine characteristics/gender | — |
-| -ki | establishes andromasc characteristics/gender | — |
 | -ka | establishes androgynous characteristics/gender | — |
+| -ki | establishes andromasc characteristics/gender | — |
+| -ci | establishes masculine characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
