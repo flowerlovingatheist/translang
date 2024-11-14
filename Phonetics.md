@@ -46,6 +46,5 @@
 
 ## Syllable Structure
 
-CV(N) — consonant + vowel + maybe nasal consonant (n or m).
-
-Stress should always be placed on the 2nd-to-last syllable.
+* CV(N) — consonant + vowel + maybe nasal consonant (n or m).
+* Stress should always be placed on the 2nd-to-last syllable.
