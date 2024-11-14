@@ -15,7 +15,8 @@
 | -ke | establishes androfeminine characteristics/gender | — |
 | -ki | establishes andromasc characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
-| -lonki | refers ro a field of knowledge/study, similar to english -ology |
+| -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
+| -falo | indicates manner or characteristic of speech  | -speak, -talk |
 
 ## Verb suffixes
 
