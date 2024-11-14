@@ -1,3 +1,4 @@
+# Numerals
 | Number | Word |
 |--------|------|
 | 0 | sero |
