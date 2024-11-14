@@ -16,5 +16,5 @@
 
 ### Regarding the raw markdown code
 
-* Between every significant mass of text (a paragraph of text, a table, an itemised list, an enumerated list, etc.) there should be one empty line **as long as it's not a table after a heading**, in which case there should be no empty line between them
+* Between every significant mass of characters (a paragraph of text, a table, an itemised list, an enumerated list, etc.) there should be one empty line
 * HTML tags should be avoided unless imperative for the situation
