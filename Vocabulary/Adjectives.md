@@ -17,3 +17,6 @@
 | lifeta | positive freedom, liberated |
 | jala | able, capable of |
 | mire | mid, average |
+| misu | liquid, fluid |
+| ten | solid, rigid |
+| lufi | gaseous |
