@@ -8,7 +8,7 @@
 | r | /ɹ/ , /ɾ/ , /r/  | "r" |
 | p | /p/ | "p" |
 | b | /b/ | "b" |
-| x	| /θ/ | "th" |
+| x	| /θ/ | "**th**" as in "**th**ink" |
 | c | /ʃ/ |	"sh" |
 | n | /n/ | "n" |
 | t | /t/ |	 "t" |
@@ -19,7 +19,9 @@
 | l | /l/ |	 "l" |
 | h | /h/ |	 "h" |
 | f | /f/ | "f" |
-| j | /j/ | "y" as in "yes" |
+| j | /j/ | "**y**" as in "**y**es" |
+| q | /ʐ/ , /ʒ/ , /ʤ/ | "**j**" as in "**j**ump" <br> "**s**" as in "vi**s**ion" |
+| z | /ð/ | "**th** as in "**th**en"" 
 
 |             | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
 |-------------|--------|--------|----------|--------------|---------|-------|---------|
