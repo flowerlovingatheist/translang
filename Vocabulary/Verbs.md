@@ -21,3 +21,5 @@
 | lifeta | induce positive freedom |
 | jala | can, be able to |
 | meta | measure |
+| core | want |
+| jore | need |
