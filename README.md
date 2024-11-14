@@ -6,6 +6,7 @@ Help us out at r/transconlang
 * [Grammar](Grammar.md)
 * [Phonetics](Phonetics.md)
 * [Examples](Examples.md)
+* [Formatting](Formatting.md)
 * Vocabulary
 * * [Nouns](Vocabulary/Nouns.md)
 * * [Adjectives](Vocabulary/Adjectives.md)
