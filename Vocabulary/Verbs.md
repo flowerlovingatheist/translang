@@ -1,3 +1,4 @@
+# Verbs
 | Spelling | Definition |
 |----------|------------|
 | mawa | kiss |
