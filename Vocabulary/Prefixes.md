@@ -1,4 +1,5 @@
 # Prefixes
+
 | Spelling | Definition |
 | -------- | ---------- |
 | mire- | half, in the middle of |
