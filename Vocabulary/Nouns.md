@@ -35,6 +35,5 @@
 | gurati | negative freedom |
 | lifeta | positive freedom |
 | kumi | trans(gender)ness |
-| mobama | hormone |
 | jala | ability |
 | mire | half, middle |
