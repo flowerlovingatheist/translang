@@ -37,3 +37,6 @@
 | kumi | trans(gender)ness |
 | jala | ability |
 | mire | half, middle |
+| misu | liquid |
+| lufi | gas |
+| ten | solid |
