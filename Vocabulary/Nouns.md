@@ -42,3 +42,4 @@
 | misu | liquid |
 | lufi | gas |
 | ten | solid |
+| kin | thing |
