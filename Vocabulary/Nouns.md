@@ -1,4 +1,5 @@
 # Nouns
+
 | Spelling | Definition |
 |----------|------------|
 | kase | cat |
