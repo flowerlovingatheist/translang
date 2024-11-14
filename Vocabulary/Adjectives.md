@@ -1,4 +1,5 @@
 # Adjectives
+
 | Spelling | Definition |
 |----------|------------|
 | mi | cute |
