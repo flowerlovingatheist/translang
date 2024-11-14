@@ -15,6 +15,7 @@
 | -ke | establishes androfeminine characteristics/gender | — |
 | -ki | establishes andromasc characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
+| -lonki | refers ro a field of knowledge/study, similar to english -ology |
 
 ## Verb suffixes
 
