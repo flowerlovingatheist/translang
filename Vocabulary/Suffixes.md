@@ -9,11 +9,11 @@
 | -ri | establishes a place/event | -ery |
 | -dufen | refers to an entity or construct that performs a specific action or function | -ifier, -inator |
 | -fe | connotes opposition | "against" , "in opposition to" | — |
-| -ka | establishes androgynous characteristics/gender | — |
 | -se | establishes feminine characteristics/gender | — |
-| -ci | establishes masculine characteristics/gender | — |
 | -ke | establishes androfeminine characteristics/gender | — |
+| -ci | establishes masculine characteristics/gender | — |
 | -ki | establishes andromasc characteristics/gender | — |
+| -ka | establishes androgynous characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
