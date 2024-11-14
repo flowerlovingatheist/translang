@@ -18,7 +18,9 @@ Roots are gender neutral by themselves and only (pro)nouns can have number and g
 
 Verb is formed as root followed by ending. 
 
-Ending is either empty, -da for past tense, -ne for present tense, or -lo for future tense.
+Ending is either empty, -da for past tense, -ne for present tense, -lo for future tense, or -do for imperative mood.
+
+It can also be postfixed by -ku to indicate uncertainty, for example "Are you sleeping?" could be worded as "?'mida somoneku".
 
 # Article
 
