@@ -1,4 +1,4 @@
-# Pronouns
+# Adverbs
 
 ## Miscellaneous adverbs
 | Spelling | Definition |
