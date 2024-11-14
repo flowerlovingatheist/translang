@@ -2,7 +2,7 @@
 
 ## Resources
 
-* For a short markdown guide see [this](https://commonmark.org/help/). <br>
+* For a short markdown guide see [this](https://commonmark.org/help/).
 * For a more extensive markdown guide, see [this](https://handbook.gitlab.com/docs/markdown-guide/).
 
 ## Hard rules
