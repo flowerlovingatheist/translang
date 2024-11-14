@@ -9,7 +9,7 @@
 
 * Formatting — both of the raw markdown code and the result of its visual rendering — should be as consistent as possible.
 * Every page should have a descriptive but concise title.
-* The title should be an level 1 heading, that is, the line should be preceded by preceded by a `#`.
+* The title should be a level 1 heading, that is, the line should be preceded a `#`.
 * Sections, subsections, or n*(sub)sections should be level 2, 3, or n headings respectively. If you need more than the 6 default headings included in standard markdown, you're probably doing something wrong.
 
 ## Soft rules/guidelines
