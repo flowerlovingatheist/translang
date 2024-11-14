@@ -46,4 +46,4 @@
 | meta | measurment |
 | core | desire |
 | jore | need |
-| lonki | a field of knowledge/study |
+| lonki | field of knowledge/study |
