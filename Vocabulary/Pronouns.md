@@ -26,9 +26,9 @@
 
 ## Demonstrative Pronouns
 
-|   |   | Close to speaker | Far from speaker | Question |
-| - | - | ---------------- | ---------------- | -------- |
-|   |   | ta- | ka- | so- |
+| Use case | Termination | Close to speaker (English equivalent) | Far from speaker (English equivalent) | Interrogative form (English equivalent) |
+|----------|-------------|---------------------------------------|---------------------------------------|-----------------------------------------|
+| Prefix for: | — | ta- | ka- | so- |
 | this/that (noun) | -no | tano (this) | kano (that) | sono (what) |
 | this/that (adj.) | -ni |  tani (this (adj.)) | kani (that (adj.)) | soni (which) |
 | this/that way | -tu | tatu (this way) | katu (that way) | sotu (which way) |
