@@ -1,6 +1,7 @@
 # Adverbs
 
 ## Miscellaneous adverbs
+
 | Spelling | Definition |
 | -------- | ---------- |
 | nen | no |
@@ -10,6 +11,7 @@
 | saci | how |
 
 ## Temporal adverbs
+
 (-hi is the termination for a temporal adverb)
 | Spelling | Definition |
 | -------- | ---------- |
@@ -18,6 +20,7 @@
 | sohi | when |
 
 ## Demonstrative adverbs
+
 (-wa is the termination for a demonstrative adverb)
 | Spelling | Definition |
 | -------- | ---------- |
