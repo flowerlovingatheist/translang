@@ -10,3 +10,4 @@
 | mo- | inversion, contrary meaning |
 | wu- | denotes positive connotation |
 | di- | denotes negative connotation |
+| deja- | like "-doing"
