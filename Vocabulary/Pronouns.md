@@ -1,6 +1,7 @@
 # Pronouns
 
 ## Personal Pronouns
+
 | Spelling | Definition |
 |----------|------------|
 | li | animate, unspecified, 1st person |
@@ -13,6 +14,7 @@
 | daci | animate, masculine, 3rd person |
 
 ## Indefinite Pronouns
+
 | Spelling | Definition |
 |----------|------------|
 | reda | reflexive pronoun, referencing to the thing(s) already mentioned in the sentence |
@@ -23,6 +25,7 @@
 | mire | half |
 
 ## Demonstrative Pronouns
+
 |   |   | Close to speaker | Far from speaker | Question |
 | - | - | ---------------- | ---------------- | -------- |
 |   |   | ta- | ka- | so- |
