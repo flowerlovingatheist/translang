@@ -1,10 +1,12 @@
-# Sentence Structure
+# Grammar
+
+## Sentence Structure
 
 Sentence structure is Subject-Verb-Object.
 
 Adjectives are placed after what they describe, and same is for adverbs.
 
-# Nouns
+## Nouns
 
 Noun is formed as root followed by zero or more suffixes and ending.
 
@@ -14,7 +16,7 @@ For example kaselusesa is catgirls, which is formed from root kase, suffixes -lu
 
 Roots are gender neutral by themselves and only (pro)nouns can have number and gender.
 
-# Verbs
+## Verbs
 
 Verb is formed as root followed by ending. 
 
@@ -22,13 +24,13 @@ Ending is either empty, -da for past tense, -ne for present tense, -lo for futur
 
 It can also be postfixed by -ku to indicate uncertainty, for example "Are you sleeping?" could be worded as "?'mida somoneku".
 
-# Article
+## Article
 
 The — te, used similar to english.
 
 There is no a/an since it's implied by default.
 
-# Punctuation
+## Punctuation
 
 | Symbol | 	Usage/Purpose |
 | ------ | ------------- |
