@@ -2,13 +2,11 @@
 
 ## Sentence Structure
 
-Sentence structure is Subject-Verb-Object.
-
-Adjectives are placed after what they describe, and same is for adverbs.
+The sentence structure is SVO (Subject-Verb-Object), with postmodifier adjectives and adverbs (adjectives and adverbs are placed after what they describe).
 
 ## Nouns
 
-Noun is formed as root followed by zero or more suffixes and ending.
+A noun is formed by a root, followed by optional suffixes and an ending.
 
 Ending is either empty or -sa for plural. 
 
