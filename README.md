@@ -33,5 +33,5 @@ The difference between the affixes ni- , mo- , and -fe may seem confusing for so
   3. nikase , literal meaning being non-cat, which could mean anything without specific context. **Thus, certain combinations with ni- are impractical and should not be used**.
 * mo- is used for inversion, meaning "the contrary/inverse of", and hence establishes that the word is the ***contrary*** of what the rest of it means. It thus always definitively refers to one concrete word, unless there is ambiguity in the interpretation. Examples:
   1. mo[positive] (we don't have words for positive, neutral, and negative), which would literally mean the contrary of positive (negative)
-* -fe is used to convey opposition towards something, meaning "opposed to", and thus simply defines opposition towards what the rest of the word means. Examples:
+* -fe is used to ***convey opposition*** towards something, meaning "opposed to", and thus simply defines opposition towards what the rest of the word means. Examples:
   1. kumife , literal meaning being "opposed to transness", that being "transphobe"
