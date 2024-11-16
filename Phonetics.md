@@ -2,29 +2,29 @@
 
 ## Consonants
 
-| Symbol | IPA Pronunciation | Anglicized |
----------|-------------------|------------|
-| 3 | /mi/ | "me" |
-| w | /w/ | "w" |
-| n | /n/ | "n" |
-| m | /m/ | "m" |
-| r | /ɹ/ , /ɾ/ , /r/  | "r" |
-| p | /p/ | "p" |
-| b | /b/ | "b" |
+| Symbol | IPA Pronunciation | Anglicized (main cases) |
+---------|-------------------|-------------------------|
+| 3 | /mi/ | "**me**" as in "**me**" |
+| w | /w/ | "**w**" as in "**w**ater" |
+| n | /n/ | "**n**" as in "**n**eed" |
+| m | /m/ | "**m**" as in "**m**ean" |
+| r | /ɹ/ , /ɾ/ , /r/  | "**r**" as in "**r**ead" |
+| p | /p/ | "**p**" as in "**p**lease" |
+| b | /b/ | "**b**" as in "**b**e" |
 | x	| /θ/ | "**th**" as in "**th**ink" |
-| c | /ʃ/ |	"sh" |
-| n | /n/ | "n" |
-| t | /t/ |	 "t" |
-| d | /d/ |	 "d" |
-| k | /k/ |	 "k" |
-| g | /g/ | "g" |
-| s | /s/ |	 "s" |
-| l | /l/ |	 "l" |
-| h | /h/ |	 "h" |
-| f | /f/ | "f" |
+| c | /ʃ/ |	"**sh**" as in "**sh**e" |
+| n | /n/ | "**n**" as in "**n**o"|
+| t | /t/ |	"**t**" as in "**t**ea" |
+| d | /d/ |	"**d**" as in "**d**o" |
+| k | /k/ |	"**k**" as in "**k**eep" |
+| g | /g/ | "**g**" as on "**g**o"|
+| s | /s/ |	"**s**" as in "**s**o" |
+| l | /l/ |	"**l**" as in "**l**ow" |
+| h | /h/ |	"**h**" as in "**h**elp"  |
+| f | /f/ | "**f**" as in "**f**ind" |
 | j | /j/ | "**y**" as in "**y**es" |
 | q | /ʐ/ , /ʒ/ , /ʤ/ | "**j**" as in "**j**ump" <br> "**s**" as in "vi**s**ion" |
-| z | /ð/ | "**th** as in "**th**en"" 
+| z | /ð/ | "**th** as in "**th**en" | 
 
 |             | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
 |-------------|--------|--------|----------|--------------|---------|-------|---------|
